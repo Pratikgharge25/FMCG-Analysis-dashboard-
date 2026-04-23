@@ -129,4 +129,4 @@ Monitor product performance
 
 Optimize inventory
 
-Improve sales strategy
+Improve sales 
